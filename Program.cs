@@ -1,2 +1,11 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿string? readResult;
+string menuSelection = "";
+int dailyGoal = 0;
+int glassesDrunk = 0;
+
+do
+{
+    Console.Clear();
+    Console.WriteLine("Welcome to Sip and Glow✨");
+    Console.WriteLine("--------------------------");
+}
