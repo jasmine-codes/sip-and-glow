@@ -22,7 +22,20 @@ do
 
     switch (menuSelection)
     {
-        
+        case "1":
+        SetDailyGoal();
+        break;
     }
 
 } while (menuSelection != "5");
+
+Console.WriteLine("Goodbye, and stay hydrated 💧!");
+
+#region Methods
+
+void SetDailyGoal()
+{
+
+}
+
+#endregion

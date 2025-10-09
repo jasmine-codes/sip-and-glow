@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/jasminelee/Documents/Code/CsharpProjects/SipAndGlow/CsharpProjects/SipAndGlow/SipAndGlow.csproj": {}
+    "/Users/jasminelee/Documents/Code/CsharpProjects/SipAndGlow/SipAndGlow.csproj": {}
   },
   "projects": {
-    "/Users/jasminelee/Documents/Code/CsharpProjects/SipAndGlow/CsharpProjects/SipAndGlow/SipAndGlow.csproj": {
+    "/Users/jasminelee/Documents/Code/CsharpProjects/SipAndGlow/SipAndGlow.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/jasminelee/Documents/Code/CsharpProjects/SipAndGlow/CsharpProjects/SipAndGlow/SipAndGlow.csproj",
+        "projectUniqueName": "/Users/jasminelee/Documents/Code/CsharpProjects/SipAndGlow/SipAndGlow.csproj",
         "projectName": "SipAndGlow",
-        "projectPath": "/Users/jasminelee/Documents/Code/CsharpProjects/SipAndGlow/CsharpProjects/SipAndGlow/SipAndGlow.csproj",
+        "projectPath": "/Users/jasminelee/Documents/Code/CsharpProjects/SipAndGlow/SipAndGlow.csproj",
         "packagesPath": "/Users/jasminelee/.nuget/packages/",
-        "outputPath": "/Users/jasminelee/Documents/Code/CsharpProjects/SipAndGlow/CsharpProjects/SipAndGlow/obj/",
+        "outputPath": "/Users/jasminelee/Documents/Code/CsharpProjects/SipAndGlow/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/jasminelee/.nuget/NuGet/NuGet.Config"
