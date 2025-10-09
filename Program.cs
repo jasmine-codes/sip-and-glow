@@ -43,6 +43,13 @@ void SetDailyGoal()
         dailyGoal = goal;
         Console.WriteLine($"Your daily goal is set to {dailyGoal} glasses of water!");
     }
+    else
+    {
+        Console.WriteLine("Please enter a valid positive number.");
+    }
+
+    Console.WriteLine("Press Enter to continue");
+    Console.ReadLine();
 }
 
 #endregion
