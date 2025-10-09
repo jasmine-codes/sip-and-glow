@@ -35,7 +35,14 @@ Console.WriteLine("Goodbye, and stay hydrated 💧!");
 
 void SetDailyGoal()
 {
+    Console.Write("Enter your daily water goal (in glasses): ");
+    readResult = Console.ReadLine();
 
+    if (int.TryParse(readResult, out int goal) && goal > 0)
+    {
+        dailyGoal = goal;
+        Console.WriteLine($"Your daily goal is set to {dailyGoal} glasses of water!");
+    }
 }
 
 #endregion
