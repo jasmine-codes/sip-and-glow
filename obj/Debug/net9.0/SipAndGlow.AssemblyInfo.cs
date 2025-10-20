@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SipAndGlow")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8c1889164363fc6832a5c755f0705ddc86853c6a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+391acf51750158063574f9e0743fdd11b38f1ab6")]
 [assembly: System.Reflection.AssemblyProductAttribute("SipAndGlow")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SipAndGlow")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

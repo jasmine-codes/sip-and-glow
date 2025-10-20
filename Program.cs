@@ -25,6 +25,10 @@ do
         case "1":
         SetDailyGoal();
         break;
+
+        case "2":
+        LogGlass();
+        break;
     }
 
 } while (menuSelection != "5");
