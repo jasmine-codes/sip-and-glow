@@ -1,0 +1,15 @@
+/Users/jasminelee/Documents/Code/CsharpProjects/SipAndGlow/bin/Debug/net9.0/SipAndGlow
+/Users/jasminelee/Documents/Code/CsharpProjects/SipAndGlow/bin/Debug/net9.0/SipAndGlow.deps.json
+/Users/jasminelee/Documents/Code/CsharpProjects/SipAndGlow/bin/Debug/net9.0/SipAndGlow.runtimeconfig.json
+/Users/jasminelee/Documents/Code/CsharpProjects/SipAndGlow/bin/Debug/net9.0/SipAndGlow.dll
+/Users/jasminelee/Documents/Code/CsharpProjects/SipAndGlow/bin/Debug/net9.0/SipAndGlow.pdb
+/Users/jasminelee/Documents/Code/CsharpProjects/SipAndGlow/obj/Debug/net9.0/SipAndGlow.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jasminelee/Documents/Code/CsharpProjects/SipAndGlow/obj/Debug/net9.0/SipAndGlow.AssemblyInfoInputs.cache
+/Users/jasminelee/Documents/Code/CsharpProjects/SipAndGlow/obj/Debug/net9.0/SipAndGlow.AssemblyInfo.cs
+/Users/jasminelee/Documents/Code/CsharpProjects/SipAndGlow/obj/Debug/net9.0/SipAndGlow.csproj.CoreCompileInputs.cache
+/Users/jasminelee/Documents/Code/CsharpProjects/SipAndGlow/obj/Debug/net9.0/SipAndGlow.sourcelink.json
+/Users/jasminelee/Documents/Code/CsharpProjects/SipAndGlow/obj/Debug/net9.0/SipAndGlow.dll
+/Users/jasminelee/Documents/Code/CsharpProjects/SipAndGlow/obj/Debug/net9.0/refint/SipAndGlow.dll
+/Users/jasminelee/Documents/Code/CsharpProjects/SipAndGlow/obj/Debug/net9.0/SipAndGlow.pdb
+/Users/jasminelee/Documents/Code/CsharpProjects/SipAndGlow/obj/Debug/net9.0/SipAndGlow.genruntimeconfig.cache
+/Users/jasminelee/Documents/Code/CsharpProjects/SipAndGlow/obj/Debug/net9.0/ref/SipAndGlow.dll

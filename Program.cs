@@ -52,4 +52,16 @@ void SetDailyGoal()
     Console.ReadLine();
 }
 
+void LogGlass()
+{
+    if (dailyGoal == 0)
+    {
+        Console.WriteLine("Please set your daily goal first!");
+    }
+    else if ()
+    {
+        
+    }
+}
+
 #endregion
