@@ -67,6 +67,9 @@ void LogGlass()
     {
         Console.WriteLine("Goal reached! You can't log more today 🚰");
     }
+
+    Console.WriteLine("Press Enter to continue");
+    Console.ReadLine();
 }
 
 #endregion
