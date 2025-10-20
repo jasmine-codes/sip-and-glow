@@ -58,9 +58,14 @@ void LogGlass()
     {
         Console.WriteLine("Please set your daily goal first!");
     }
-    else if ()
+    else if (glassesDrunk < dailyGoal)
     {
-        
+        glassesDrunk++;
+        Console.WriteLine($"Nice! You've logged a glass. Total: {glassesDrunk}/{dailyGoal}");
+    }
+    else
+    {
+        Console.WriteLine("Goal reached! You can't log more today 🚰");
     }
 }
 
