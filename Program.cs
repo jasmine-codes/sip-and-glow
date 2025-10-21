@@ -85,6 +85,12 @@ void viewProgress()
     else
     {
         double percentage = ((double)glassesDrunk / dailyGoal) * 100;
+        Console.WriteLine($"Progress: {glassesDrunk}/{dailyGoal} glasses ({percentage:F1}%)");
+
+        if (glassesDrunk == dailyGoal)
+        {
+            
+        }
     }
 }
 
