@@ -76,4 +76,16 @@ void LogGlass()
     Console.ReadLine();
 }
 
+void viewProgress()
+{
+    if (dailyGoal == 0)
+    {
+        Console.WriteLine("You haven't set a goal yet!");
+    }
+    else
+    {
+        double percentage = ((double)glassesDrunk / dailyGoal) * 100;
+    }
+}
+
 #endregion
