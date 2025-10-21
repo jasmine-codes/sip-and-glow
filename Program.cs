@@ -29,6 +29,10 @@ do
         case "2":
         LogGlass();
         break;
+
+        case "3":
+        ViewProgress();
+        break;
     }
 
 } while (menuSelection != "5");
@@ -76,7 +80,7 @@ void LogGlass()
     Console.ReadLine();
 }
 
-void viewProgress()
+void ViewProgress()
 {
     if (dailyGoal == 0)
     {
@@ -89,9 +93,20 @@ void viewProgress()
 
         if (glassesDrunk == dailyGoal)
         {
-            
+            Console.WriteLine("🎉 You've reached your hydration goal! Amazing work!");
+        }
+        else if (percentage >= 50)
+        {
+            Console.WriteLine("Halfway there, keep sipping 💪");
+        }
+        else
+        {
+            Console.WriteLine("Let's get started, hydration hero!");
         }
     }
+
+    Console.WriteLine("Press Enter to continue");
+    Console.ReadLine();
 }
 
 #endregion
