@@ -33,6 +33,10 @@ do
         case "3":
         ViewProgress();
         break;
+
+        case "4":
+        ResetProgress();
+        break;
     }
 
 } while (menuSelection != "5");
@@ -114,6 +118,8 @@ void ResetProgress()
     glassesDrunk = 0;
     dailyGoal = 0;
     Console.WriteLine("Progress has been reset. New day, new hydration goals 🌞");
+    Console.WriteLine("Press Enter to continue");
+    Console.ReadLine();
 }
 
 #endregion
