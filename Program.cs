@@ -109,4 +109,11 @@ void ViewProgress()
     Console.ReadLine();
 }
 
+void ResetProgress()
+{
+    glassesDrunk = 0;
+    dailyGoal = 0;
+    Console.WriteLine("Progress has been reset. New day, new hydration goals 🌞");
+}
+
 #endregion
